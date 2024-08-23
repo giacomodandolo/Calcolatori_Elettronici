@@ -1,7 +1,7 @@
 # Calcolatori_Elettronici
  Materiale per il corso di Calcolatori Elettronici del PoliTO.
 
-## Laboratori
+# Laboratori
 ### Lab0 ([Testo](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Assembly/Soluzioni/Lab0/esercitazione0-all.pdf))
  [0-1](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Assembly/Lab0/0-1.s) | 
  [0-2](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Assembly/Lab0/0-2.s) |
@@ -67,33 +67,52 @@
  [9-2](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Assembly/Lab9/9-2.s) |
  [9-3](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Assembly/Lab9/9-3.s)
 
-## Temi d'esame
-### [11-07-2013](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20130711)
-### [02-07-2015](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20150702)
-### [16-07-2015](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20150716)
-### [21-06-2016](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20160621)
-### [04-07-2016](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20160704)
-### [27-06-2017](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20170627)
-### [13-07-2017](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20170713)
-### [07-09-2017](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20170907)
-### [05-02-2018](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20180205)
-### [04-07-2018](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20180704)
-### [17-07-2018](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20180717)
-### [06-09-2018](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20180906)
-### [26-06-2019](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20190626)
-### [01-07-2020](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20200701)
-### [21-07-2020](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20200721)
-### [01-09-2020](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20200901)
-### [18-02-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210218)
-### [02-07-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210702)
-### [20-07-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210720)
-### [17-09-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210917)
-### [08-11-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20211108)
-### [11-02-2022](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20220211)
-### [05-07-2022](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20220705)
-### [20-07-2022](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20220720)
-### [07-09-2022](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20220907)
-### [18-01-2023](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210702)
-### [23-06-2023](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210720)
-### [05-07-2023](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210917)
-### [07-09-2023](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20211108)
+# Temi d'esame
+### 2013
+ [11-07-2013](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20130711) 
+
+### 2015
+ [02-07-2015](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20150702) |
+ [16-07-2015](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20150716)
+
+### 2016
+ [21-06-2016](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20160621) |
+ [04-07-2016](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20160704)
+
+### 2017
+ [27-06-2017](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20170627) |
+ [13-07-2017](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20170713) |
+ [07-09-2017](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20170907)
+ 
+### 2018
+ [05-02-2018](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20180205) |
+ [04-07-2018](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20180704) |
+ [17-07-2018](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20180717) |
+ [06-09-2018](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20180906)
+
+### 2019
+ [26-06-2019](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20190626)
+
+### 2020
+ [01-07-2020](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20200701) |
+ [21-07-2020](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20200721) |
+ [01-09-2020](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20200901)
+ 
+### 2021
+ [18-02-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210218) |
+ [02-07-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210702) |
+ [20-07-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210720) |
+ [17-09-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210917) |
+ [08-11-2021](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20211108)
+
+### 2022
+ [11-02-2022](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20220211) |
+ [05-07-2022](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20220705) |
+ [20-07-2022](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20220720) |
+ [07-09-2022](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20220907)
+ 
+### 2023
+ [18-01-2023](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210702) |
+ [23-06-2023](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210720) |
+ [05-07-2023](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20210917) |
+ [07-09-2023](https://github.com/giacomodandolo/Calcolatori_Elettronici/tree/main/Temi%20d'esame/20211108)
