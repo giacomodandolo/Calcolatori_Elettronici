@@ -1,4 +1,4 @@
-# Calcolatori_Elettronici
+# Calcolatori Elettronici
  Materiale per il corso di Calcolatori Elettronici del PoliTO.
 
 # Laboratori
